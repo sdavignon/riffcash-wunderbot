@@ -23,7 +23,7 @@ function init(rpcuser, rpcpassword) {
 }
 
 var globalSlackParams = {
-  icon_emoji: ':rickshutup:'
+  icon_emoji: ':picklerick:'
 };
 
 function respond(bot, data) {
