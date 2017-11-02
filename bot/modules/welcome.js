@@ -78,7 +78,7 @@ member.send(
 {
 "embed": {
 "title": "*Click here to see all LBRY Frequently Asked Questions (FAQ)!*",
-"description": "Want to backup your LBRY wallet? [**Backup**](https://lbry.io/faq/how-to-backup-wallet) \nLooking for LBRY data? [**Behind the scenes files**](https://lbry.io/faq/lbry-directories) \nTrouble starting LBRY? [**Startup troubleshooting**](https://lbry.io/faq/startup-troubleshooting) \nNeed help finding your log files (will help us troubleshoot!)? [**Find logs**](https://lbry.io/faq/how-to-find-lbry-log-file) \nNot able to stream any content? [**Troublshoot streaming**](https://lbry.io/faq/unable-to-stream)\nNeed help with publishing? [**How to Publish**](https://lbry.io/faq/how-to-publish) \nWant more LBRY Credits (LBC)? [**Get LBC**](https://lbry.io/faq/earn-credits) \nLooking for referral information? [**Referrals**](https://lbry.io/faq/referrals)",
+"description": "Want to backup your LBRY wallet? [**Backup**](https://lbry.io/faq/how-to-backup-wallet) \nLooking for LBRY data? [**Behind the scenes files**](https://lbry.io/faq/lbry-directories) \nTrouble starting LBRY? [**Startup troubleshooting**](https://lbry.io/faq/startup-troubleshooting) \nNeed help finding your log files (will help us troubleshoot!)? [**Find logs**](https://lbry.io/faq/how-to-find-lbry-log-file) \nNot able to stream any content? [**Troublsehoot streaming**](https://lbry.io/faq/unable-to-stream)\nNeed help with publishing? [**How to Publish**](https://lbry.io/faq/how-to-publish) \nWant more LBRY Credits (LBC)? [**Get LBC**](https://lbry.io/faq/earn-credits) \nLooking for referral information? [**Referrals**](https://lbry.io/faq/referrals)",
 "url": "https://lbry.io/faq",
 "color": 7976557,
 "author": {
