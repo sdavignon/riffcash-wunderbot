@@ -12,7 +12,7 @@
   Also Includes `!hash power <MH/s>` to calculate given MH/s to LBC per hr, day,
   week, month.
 
-* Github Release Notes bot displays release notes for current lbry-app release.
+* Github Release Notes bot displays release notes for current riffcashd release.
 
   Responds to `!releasenotes`
 
