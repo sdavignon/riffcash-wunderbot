@@ -1,4 +1,4 @@
-# Bot for [LBRY's Discord](https://discord.gg/tgnNHf5)
+# Bot for [RIFFCash's Discord](https://discord.gg/Rk7mF4w)
 
 (This README will be updated along with bot updates)
 
