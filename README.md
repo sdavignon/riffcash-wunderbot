@@ -6,7 +6,7 @@
 
 * Price bot displays price of lbc for currency given. Responds to `!price <cur>
   <amount>`
-* Stats bot display current market stats of lbc. Responds to `!stats`
+* Stats bot display current market stats of riff. Responds to `!stats`
 * Hash bot displays current hashrate of network. Responds to `!hash`
 
   Also Includes `!hash power <MH/s>` to calculate given MH/s to LBC per hr, day,
@@ -20,10 +20,6 @@
 
 * Purge Bot (moderator only) deletes X amount of messages. Responds to `!purge
   <X>`
-* Speech bot displays top claim from provided image name(coming soon posting to
-  speech).
-
-  Responds to `!speech <imagename>`
 
 * Welcome bot sends Direct Message when new users join,
 
